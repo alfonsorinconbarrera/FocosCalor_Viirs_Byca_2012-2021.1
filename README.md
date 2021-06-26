@@ -13,3 +13,6 @@ Razones por las que MODIS o VIIRS pueden no haber detectado un incendio determin
 
 Composición y anáilis: 
 Alfonso rincón barrera
+
+Gestión digital:
+Fredy  alberto  hernández   corredor
