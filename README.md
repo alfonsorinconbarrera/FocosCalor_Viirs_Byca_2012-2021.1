@@ -1,5 +1,9 @@
 Focos de calor del instrumento VIIRS a bordo del satélite S-NPP
 
+<p align="center">
+  <img width="360" src="/Animacion_Gif/FocosCalor_Viirs_Byca_2012-2021.1.gif">
+</p>
+
 Datos desde enero de 2012 a marzo de 2021, agrupados de forma trimestral.  EARTHDATA, Open acces for open science. NASA
 
 Resoluciones: espacial: 375 m, temporal: 24 h.
