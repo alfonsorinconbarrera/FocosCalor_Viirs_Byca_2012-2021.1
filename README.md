@@ -15,7 +15,7 @@ Bright_ti4. temperatura de brillo del canal VIIRS I-4 del píxel de fuego medida
 Razones por las que MODIS o VIIRS pueden no haber detectado un incendio determinado:  el incendio comenzó y terminó entre los pasos a desnivel de los  satélites; La detección fue  una capa de nubes oscurecidas, humo denso o dosel de árboles. Además de MODIS, los
  incendios pueden haber sido demasiado pequeños o demasiado fríos para ser detectados en la huella de 1 km2.
  
- Datos depurados en zona urbanas e industriales rurales.
+ Datos depurados en zona urbanas e industriales rurales
 
 Composición y anáilis: 
 Alfonso rincón barrera
