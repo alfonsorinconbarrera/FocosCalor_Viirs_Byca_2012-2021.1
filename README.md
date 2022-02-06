@@ -17,5 +17,4 @@ Razones por las que MODIS o VIIRS pueden no haber detectado un incendio determin
  
  Datos depurados en zona urbanas e industriales rurales
 
-Composición y anáilis:
-Alfonso rincón barrera
+Composición y anáilis: Alfonso rincón barrera
